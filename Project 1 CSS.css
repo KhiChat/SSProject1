@@ -1,0 +1,18 @@
+body {
+    background-color: #ffffff;
+    opacity: 1;
+    background-image:  radial-gradient(#000000 1px, transparent 1px), radial-gradient(#000000 1px, #ffffff 1px);
+    background-size: 40px 40px;
+    background-position: 0 0,20px 20px;
+    width: 60%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+p {color: #326c70;}
+ul {color: #326c70;}
+.heading1 {color: #3e9197;
+font-size: 40px;}
+.subheading {color: #0e5257;
+font-size: 25px}
+img {border-radius: 50%;}
+.flexbox {display: flex; justify-content: space-evenly;}
